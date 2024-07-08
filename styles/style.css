@@ -244,15 +244,50 @@
     color: #E55473;
 }
 
-
-
-
-
 /* hot deal section style end */
 
-
-.hot-deal-2 {
-    background-color: green;
-    height: 400px;
+/* instagram section style start */
+.instagram .instagram-text {
+    width: 500px;
+    height: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
 }
 
+.instagram-text .instagram-header {
+    font-family: "Lota", sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.instagram-text .instagram-description {
+    margin: 10px 0;
+    color: rgba(39, 39, 39, 0.6);
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.instagram .instagram-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.instagram-images .instagram-image {
+    width: 265px;
+    height: 350px;
+    border-radius: 5px;
+}
+
+
+
+/* instagram section style end */
