@@ -26,6 +26,7 @@
     border: none;
     font-family: "Lato", sans-serif;
     font-size: 15px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .dark-1 {
@@ -287,7 +288,69 @@
     height: 350px;
     border-radius: 5px;
 }
-
-
-
 /* instagram section style end */
+
+/* latest deal style start */
+
+.latest-deal {
+    margin: 100px auto;
+    height: 350px;
+    background-image: url("../Rectangle\ 9.png");
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.latest-deal .latest-deal-content {
+    width: 670px;
+    height: 200px;
+}
+
+.latest-deal .latest-deal-content .latest-text {
+    width: 350px;
+    height: 80px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.latest-deal .latest-deal-content .latest-text .latest-title {
+    font-family: "Lota", sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.latest-text .latest-description {
+    font-family: "Lota", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: rgba(39, 39, 39, 0.6);
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+.latest-deal-content .latest-form {
+    display: flex;
+    gap: 10px;
+}
+
+.latest-deal-content .latest-form input {
+    width: 100%;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 0 10px;
+    font-family: "Lota", sans-serif;
+}
+
+/* latest deal style end */
+
+
+
+
+
+
+
+
