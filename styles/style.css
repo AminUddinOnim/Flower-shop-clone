@@ -166,10 +166,40 @@
     margin-top: 10px;
 }
 
-
 /* feature flower style end */
 
+/* banner style start */
+.banner {
+    height: 300px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
 
+.group-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    text-align: center;
+}
+
+.group-container .group-text {
+    font-family: "Lato", sans-serif;
+    color: rgba(39, 39, 39, 0.8);
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+/* banner style end */
 
 
 
