@@ -127,8 +127,8 @@
     background: rgba(167, 33, 98, 0.15);
     padding: 40px 40px 0 40px;
     border-radius: 50% 50% 0 0;
-    width: 300px;
-    height: 350px;
+    width: 400px;
+    height: 400px;
 }
 
 .feature-img-container .img-2 {
@@ -136,8 +136,8 @@
     background: rgba(5, 151, 160, 0.15);
     padding: 40px 40px 0 40px;
     border-radius: 50% 50% 0 0;
-    width: 300px;
-    height: 350px;
+    width: 400px;
+    height: 400px;
 }
 
 .feature-img-container .img-3 {
@@ -145,8 +145,8 @@
     background: rgba(71, 125, 17, 0.15);
     padding: 40px 40px 0 40px;
     border-radius: 50% 50% 0 0;
-    width: 300px;
-    height: 350px;
+    width: 400px;
+    height: 400px;
 }
 
 .flower-text {
@@ -161,8 +161,8 @@
 
 .feature-img-container img {
     width: 65%;
-    height: 300px;
-    margin-left: 30px;
+    height: 350px;
+    margin-left: 45px;
     margin-top: 10px;
 }
 
